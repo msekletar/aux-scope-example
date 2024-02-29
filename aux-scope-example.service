@@ -1,0 +1,4 @@
+[Service]
+Type=notify
+KillMode=mixed
+ExecStart=/usr/local/bin/aux-scope-example
